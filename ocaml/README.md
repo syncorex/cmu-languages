@@ -1,17 +1,7 @@
-# OCAML
-
-https://ocaml.org/
+# OCAML Assignment
 
 # Docker build/run
 
 ```bash
-./run ocaml hello.ml
-```
-
-# Interactive
-
-```bash
-./run
-ocaml
-# type here
+./run ocaml str.cma one_chicken.ml
 ```
