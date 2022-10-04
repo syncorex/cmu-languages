@@ -1,6 +1,6 @@
 # OCAML Assignment
 
-# Docker build/run
+## Docker build/run
 
 ```bash
 ./run ocaml str.cma one_chicken.ml
