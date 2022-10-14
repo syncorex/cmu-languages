@@ -1,6 +1,6 @@
-# SWI Prolog
+# Housefire
 
-https://www.swi-prolog.org/
+This is a simple game demonstrating the syntax and functionality of Prolog.
 
 # How to play
 
