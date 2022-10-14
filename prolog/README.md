@@ -8,6 +8,6 @@ This is a simple game demonstrating the syntax and functionality of Prolog.
 
 To run the game, open bash in the prolog folder and type:
 
-`./run swipl housefire.py`
+`./run swipl housefire.pl`
 
-Then run the ```start.``` command. Have fun!
+Then run the `start.` command. Have fun!
